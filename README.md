@@ -12,13 +12,13 @@ Topic Analysis and Synthesis
     C. Acknowledgment of differences based on project size and complexity
     D. Importance of tangible and intangible deliverables in hardware and software projects
 
-# III. Project Life Cycle
+# III. Project Life Cycle (Background)
     A. Overview of life cycle variations in hardware and software projects
     B. Agile and cyclic life cycles in software projects
     C. Traditional waterfall-type life cycles in hardware projects
     D. Differences in naming life-cycle phases
 
-# IV. Establishing Processes and Roles
+# IV. Establishing Processes and Roles (Methods)
     A. Scoping changes in hardware projects
       1. Formal definition and management
     B. Scoping changes in software projects
@@ -31,7 +31,7 @@ Topic Analysis and Synthesis
       1. Multiple interim deliverables testing
       2. Ongoing testing throughout the project
 
-# V. Technological Evolution and Expertise
+# V. Technological Evolution and Expertise (Methods)  
     A. Rate of technological evolution in hardware projects
       1. Comparison with software projects
     B. Technical expertise of project leaders in hardware projects
