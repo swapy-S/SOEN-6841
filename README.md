@@ -7,11 +7,10 @@ Topic Analysis and Synthesis
     B. Importance of understanding project size, complexity, and the nature of deliverables
 
 # II. Introduction
-    A. Definition of project management principles
-    B. Recognition of commonalities across project types
-    C. Acknowledgment of differences based on project size and complexity
-    D. Importance of tangible and intangible deliverables in hardware and software projects
-
+    A. Problem Statement
+    B. Motivation
+    C. Objectives
+    
 # III. Project Life Cycle (Background)
     A. Overview of life cycle variations in hardware and software projects
     B. Agile and cyclic life cycles in software projects
